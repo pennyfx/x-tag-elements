@@ -1,7 +1,7 @@
 
 ## Syntax
 
-Flipbox allows you to place two elements back-to-back and then flip between them.
+
 
 ```
 	<x-panel src="some-page.html"> </x-panel>
